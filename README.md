@@ -1,7 +1,6 @@
 # portfolio
 
-Hi! I'm Esma Hećimović-Huseinbašić. I have Bachelor and Master's Degree from Architecture. I have worked on many projects regarding architectural design, urban design, urban planning, Building Information Modeling, interior design, etc. During my education, I was also
-interested in Graphic Design, and recently I've decided to switch to UI/UX design. Here are some of my projects: 
+Hi! I'm Esma Hećimović-Huseinbašić. I have Bachelor and Master's Degree from Architecture. I have worked on many projects regarding architectural design, urban design, urban planning, Building Information Modeling, interior design, etc. I'm currently working in an architectural company focused on construction management, but I'm very interested both in graphic and UI/UX design. Here are some of my projects: 
 
  <br>
  <br>
