@@ -19,7 +19,7 @@ This is my design for a travel planner app called *'Tranner'*. Software I used f
  <br>
  <br>
 <br>
-This project is taxi ordering mobile app for local market. Software used: Figma.
+This project is taxi ordering mobile app for local market. Software used: Figma. <br>
 ![taxiapp.jpg](/img/taxiapp.jpg)
 
  <br>
