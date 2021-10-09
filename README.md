@@ -5,7 +5,7 @@ Hi! I'm Esma Hećimović-Huseinbašić. I have Bachelor and Master's Degree from
  <br>
  <br>
 
-This is my design for a dashboard. Software used: Figma.
+This is my design for Location App Admin Dashboard. Software used: Figma.
 ![dashboard1.jpg](/img/dashboard1.jpg) 
 
 
@@ -13,14 +13,27 @@ This is my design for a travel planner app called *'Tranner'*. Software I used f
 ![mobileapp1.jpg](/img/mobileapp1.jpg) 
 ![mobileapp.jpg](/img/mobileapp.jpg) 
 
+
+
  <br>
  <br>
+<br>
+This project is taxi ordering mobile app for local market. Software used: Figma.
+![taxiapp.jpg](/img/taxiapp.jpg) 
+ <br>
+ <br>
+<br>
+
+My next design is Dashboard for an admin user of a car company. Software used: Figma.
+![dashboard2.jpg](/img/dashboard2.jpg) 
+ <br>
+ <br>
+<br>
 
 Project below was my *master thesis* urban design project. It was created using Autodesk AutoCad and Revit, Enscape and Adobe Photoshop. On the images below you may see the concept design and 3D visualizations:
 
 ![psexample3.jpg](/img/psexample3.jpg) 
 ![enscapeexample.jpg](/img/enscapeexample.jpg) 
-
  <br>
  <br>
 <br>
