@@ -20,7 +20,9 @@ This is my design for a travel planner app called *'Tranner'*. Software I used f
  <br>
 <br>
 This project is taxi ordering mobile app for local market. Software used: Figma. <br>
-![newtaxiex.jpg](/img/newtaxiex.jpg)
+
+![taksiapp.png](/img/taksiapp.png) 
+
  <br>
  <br>
 <br>
