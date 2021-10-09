@@ -14,7 +14,12 @@ This is my design for a travel planner app called *'Tranner'*. Software I used f
 ![mobileapp1.jpg](/img/mobileapp1.jpg) 
 ![mobileapp.jpg](/img/mobileapp.jpg) 
 
+<br>
+ <br>
+<br>
+This is redesign of a currency app using Design System I've created. Software used: Figma. <br>
 
+![dashboard3.png](/img/dashboard3.png) 
 
  <br>
  <br>
