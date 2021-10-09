@@ -10,6 +10,7 @@ This is my design for Location App Admin Dashboard. Software used: Figma.
 
 
 This is my design for a travel planner app called *'Tranner'*. Software I used for creating this are Adobe Photoshop and InVision.  Checkout [live example of my InVision work (on invisionapp.com)](https://esmaheimovihuseinbai762888.invisionapp.com/overview/Trannel-ck5k66a3t0xbd01c06e0x8l29/screens?v=YsWUxV1ZUe8gma5fe9gQVA%3D%3D&linkshare=urlcopied). This is how it looks:
+<br>
 ![mobileapp1.jpg](/img/mobileapp1.jpg) 
 ![mobileapp.jpg](/img/mobileapp.jpg) 
 
@@ -19,7 +20,8 @@ This is my design for a travel planner app called *'Tranner'*. Software I used f
  <br>
 <br>
 This project is taxi ordering mobile app for local market. Software used: Figma.
-![taxiapp.jpg](/img/taxiapp.jpg) 
+![taxiapp.jpg](/img/taxiapp.jpg)
+
  <br>
  <br>
 <br>
